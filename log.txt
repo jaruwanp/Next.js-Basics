@@ -1,0 +1,11 @@
+I forgot that I am using jsx not html. Thus, some of html tags I can't use.
+
+- I accidentially drag index.js into a wrong location which supposed to be stored in "pages"... Wrong routh
+
+- pages is the root directory
+
+
+- feel like try to understand WP source code
+
+- confused how to crate folders
+- replit frozen

@@ -1,0 +1,37 @@
+https://replit.com/talk/learn/Learn-the-Command-Line/132061
+
+How to use Bash
+
+cd directory	Navigates to the specified directory
+cd ..	Goes up one directory
+ls	Lists all directories and files accessible in the current directory.
+pwd	Shows the current working directory
+mkdir newdirectory	Makes a new directory
+rmdir unwanteddirectory	Removes the specified directory
+rm unwantedfile	Removes the specified file
+touch file.txt	Creates a new file in the current directory
+echo wordstoputinfile	Puts words in specified file using redirect symbol: >>
+cat file	Shows the contents inside a file
+grep	Searches for the specified lines inside a specified file. Format: grep linetosearch filetosearchin.
+
+-------------------------------------
+
+https://nodejs.dev/learn/uninstalling-npm-packages
+https://nextjs.org/learn/basics/navigate-between-pages/pages-in-nextjs
+-------------------
+
+The list of commands:
+cd nextjs-blog
+npm run dev
+
+
+
+npm install tailwindcss postcss-preset-env postcss-flexbugs-fixes
+npm install sass
+npm install gray-matter
+lib
+
+
+https://cs5513-week03-jaruwanpatt.srjcethanwilde.repl.co/posts/ssg-ssr
+https://cs5513-week03-jaruwanpatt.srjcethanwilde.repl.co/posts/pre-rendering
+https://cs5513-week03-jaruwanpatt.srjcethanwilde.repl.co/api/hello

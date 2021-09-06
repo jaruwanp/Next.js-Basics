@@ -1,0 +1,21 @@
+{
+  "name": "CS5513-Week03-jaruwanpatt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "^2.3.1",
+    "date-fns": "^2.23.0",
+    "express": "^4.17.1",
+    "gray-matter": "^4.0.3",
+    "next": "^11.1.2",
+    "remark": "^14.0.1",
+    "remark-html": "^14.0.0"
+  }
+}

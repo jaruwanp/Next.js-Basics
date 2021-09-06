@@ -1,0 +1,28 @@
+{
+  "files": {
+    "index.js": [
+      {
+        "id": "4fde036d-82a4-4f3a-9393-f66a50dae333",
+        "line": 1,
+        "version": 4,
+        "index": 0
+      }
+    ],
+    "nextjs-blog/pages/posts/first-post.js": [
+      {
+        "id": "8824d296-46be-4640-bce8-ecef74c412ad",
+        "line": 24,
+        "version": 169,
+        "index": 375
+      }
+    ],
+    "note.txt": [
+      {
+        "id": "a335c3ef-65aa-41e2-bad8-e518783ed1f0",
+        "line": 14,
+        "version": 123,
+        "index": 544
+      }
+    ]
+  }
+}
