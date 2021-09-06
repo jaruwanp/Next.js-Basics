@@ -8,6 +8,14 @@
         "index": 0
       }
     ],
+    "nextjs-blog/.next/react-loadable-manifest.json": [
+      {
+        "id": "e5c73b9f-9905-45f3-96bf-1ee5cb1f65a1",
+        "line": 8,
+        "version": 1,
+        "index": 217
+      }
+    ],
     "nextjs-blog/pages/posts/first-post.js": [
       {
         "id": "8824d296-46be-4640-bce8-ecef74c412ad",
