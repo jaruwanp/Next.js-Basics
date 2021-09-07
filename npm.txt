@@ -1,0 +1,15 @@
+npm install sass
+
+
+npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-l
+
+npm install tailwindcss postcss-preset-env postcss-flexbugs-fixes
+
+npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-learn-starter/tree/master/data-fetching-starter"
+
+npm install gray-matter
+
+npm install remark@13 remark-html@13
+
+npm install date-fns
+
